@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marx louis</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <h1>💫 About Me:</h1> 
 
 🔭 I’m an Information technology graduate<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about JAVA<br>
